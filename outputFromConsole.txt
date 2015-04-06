@@ -1,0 +1,10 @@
+﻿CONSOLE OUTPUT UPON EXECUTION
+input file -> testInput.txt
+output file -> testOutput.txt
+
+run:
+Success.
+Total number of words -> 16102
+HashTable size -> 68
+Average length of collision lists -> 23
+BUILD SUCCESSFUL (total time: 0 seconds)
